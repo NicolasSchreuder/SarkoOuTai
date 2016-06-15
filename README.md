@@ -1,6 +1,6 @@
 # SarkoOuTai
 
-## Program to check if Nicolas Sarkozy appears in a YouTube video (and if so, how long) .
+#### Program to check if Nicolas Sarkozy appears in a YouTube video (and if so, how long) .
 
 
 Authors : Sholom Schechtman, Nicolas Schreuder & Pierre Foret

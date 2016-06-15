@@ -1,4 +1,4 @@
-### SarkoOuTai
+# SarkoOuTai
 
 ## Program to check if Nicolas Sarkozy appears in a YouTube video (and if so, how long) 
 

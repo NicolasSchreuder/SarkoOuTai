@@ -177,9 +177,9 @@ for folder in os.listdir(path):
                             oui += 1
                 percent = float(oui)/n
                 if percent >= threshold:
-                    YES.append((str(folder)+'/' + folder2, percent))
+                    YES.append((str(folder)+ '/' + folder2, percent))
                 else:
-                    NO.append((str(folder)+'/' + folder2, percent))
+                    NO.append((str(folder)+ '/' + folder2, percent))
 
 YES.sort(key=sort_tuple_folder)
 NO.sort(key=sort_tuple_folder)
